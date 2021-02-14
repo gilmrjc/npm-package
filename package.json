@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/main.js",
+  "main": "./dist/bundle.min.js",
   "types": "./dist/main.d.ts",
   "author": "Gildardo Adrian Maravilla Jacome <gilmrjc@gmail.com>",
   "license": "MIT",
