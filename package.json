@@ -1,6 +1,6 @@
 {
   "name": "@gilmrjc/npm-package-boilerplate",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "NPM package boilerplate",
   "type": "module",
   "exports": {
