@@ -13,7 +13,7 @@ export default [{
     {
       file: 'dist/bundle.min.js',
       format: 'esm',
-      plugins: [terser()]
+      plugins: [terser({ module: true })]
     }
   ],
   external: [/@babel\/runtime/],
